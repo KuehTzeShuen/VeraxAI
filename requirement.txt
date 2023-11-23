@@ -3,7 +3,8 @@ ffpyplayer==4.3.5
 matplotlib==3.5.1
 mediapipe==0.10.7
 mss==6.1.0
-numpy==1.22.2
-opencv_contrib_python==4.5.5.64
+numpy
+opencv_contrib_python==4.8.1.78
 scipy==1.8.0
-tensorflow==2.10.0
+tensorflow==2.14.0
+pandas
